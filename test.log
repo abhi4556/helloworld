@@ -1,0 +1,29 @@
+
+146:emake -f GNUmakefile images/final/ALL_MODULE_MKS
+a
+b
+c
+211:emake -f GNUmakefile images/final/a_kickstart
+1834:emake -f GNUmakefile images/final/B_something
+42222:emake -f GNUmakefile images/final/C-imaging-only
+42331:emake -f GNUmakefile images/final/D-imaging-only
+42429:emake -f GNUmakefile images/final/E-imaging-only
+emake -f GNUmakefile images/final/ALL_MODULE_MKS
+1
+2
+3
+emake -f GNUmakefile images/final/titanium_d1_kickstart
+a
+b
+emake -f GNUmakefile images/final/titanium_d1-compile-only
+c
+d
+emake -f GNUmakefile images/final/eth_titanium-imaging-only
+e
+f
+emake -f GNUmakefile images/final/core_titanium-imaging-only
+g
+h
+emake -f GNUmakefile images/final/titanium_d1-imaging-only
+42747:emake -f GNUmakefile images/final/titanium_d1_dplug
+45819:emake -f GNUmakefile images/final/titanium_iso
